@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="size_100">100dp</dimen>
+    <dimen name="size_110">110dp</dimen>
+    <dimen name="font_24">24sp</dimen>
+</resources>
